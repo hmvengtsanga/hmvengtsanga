@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @augustinherve
-- 👀 I’m interested in PHP/Symfony and Angualar 2+
+- 👀 I’m interested in PHP/Symfony and Angular 2+
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
