@@ -1,6 +1,6 @@
 Hi👋, 
 - I’m @hmvengtsanga, freelance developer
-- 👀 I’m interested in PHP/Symfony, Angular, vuejs3
+- 👀 I’m interested in PHP/Symfony, Angular, Vuejs3, Node.JS
 - 🌱 I’m currently learning Devops/k8s
 
 Thanks for visiting!
